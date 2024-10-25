@@ -34,7 +34,7 @@ if (!$row) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <!-- site metas -->
-    <title>HomeCare</title>
+    <title>Homepage</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -157,7 +157,7 @@ if (!$row) {
 <body>
     <div class="header_section">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
+            <div class="logo"><a href="index.html"><img src="images/Logo.png" width="200" height="50"></a></div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -210,7 +210,7 @@ if (!$row) {
             </div>
         </div>
 
-        <!-- Footer fuera del container, siempre al final -->
+        <!-- Footer  -->
         <footer>
             <p>&copy; 2024 Solidaridad Activa. Todos los derechos reservados.</p>
         </footer>
